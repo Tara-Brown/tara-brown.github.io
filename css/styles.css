@@ -196,6 +196,7 @@ dl {
   margin-bottom: 1rem;
 }
 
+
 ol ol,
 ul ul,
 ol ul,
@@ -564,9 +565,13 @@ progress {
   list-style: none;
 }
 
+ul {
+  list-style-image: upper-roman;
+}
+
 .list-inline {
   padding-left: 0;
-  list-style: none;
+  list-style-image: url("img/project.svg");
 }
 
 .list-inline-item {
