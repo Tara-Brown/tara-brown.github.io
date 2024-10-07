@@ -565,10 +565,6 @@ progress {
   list-style: none;
 }
 
-ul {
-  list-style-image: upper-roman;
-}
-
 .list-inline {
   padding-left: 0;
   list-style-image: url("img/project.svg");
